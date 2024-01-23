@@ -613,6 +613,30 @@ video {
   height: 12rem;
 }
 
+.h-\[\] {
+  height: ;
+}
+
+.h-\[2\] {
+  height: 2;
+}
+
+.h-\[200\] {
+  height: 200;
+}
+
+.h-\[200p\] {
+  height: 200p;
+}
+
+.h-\[200px\] {
+  height: 200px;
+}
+
+.h-\[2000px\] {
+  height: 2000px;
+}
+
 .max-w-lg {
   max-width: 32rem;
 }
@@ -645,6 +669,10 @@ video {
 
 .bg-local {
   background-attachment: local;
+}
+
+.bg-scroll {
+  background-attachment: scroll;
 }
 
 .bg-clip-text {
