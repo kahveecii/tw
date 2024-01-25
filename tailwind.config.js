@@ -12,6 +12,8 @@ module.exports = {
       'poppins' : ['Poppins']
     }
   },
-  plugins: [],
+  plugins: [
+
+  ],
 }
 
